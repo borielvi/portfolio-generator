@@ -1,0 +1,25 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borielvi/portfolio-generator.git"
+  },
+  "keywords": [
+    "app.js"
+  ],
+  "author": "Elvin Boring",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/borielvi/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/borielvi/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
